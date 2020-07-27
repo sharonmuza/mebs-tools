@@ -77,14 +77,14 @@
     },
     
     {
-        "name": "hello",
-        "title": "Hello There",
+        "name": "Warning Signs",
+        "title": "Warning Signs",
         "cardBackgroundColorFront": "#78d0bb",
         "cardBackgroundColorBack": "#737373",
         "cards": [
             {
-                "frontText": "Up",
-                "backText": "Down"
+                "frontText": "Concern",
+                "backText": "No big deal"
             },
             {
                 "frontText": "Hot",
