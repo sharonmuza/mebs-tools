@@ -1,7 +1,7 @@
 [
     {
         "name": "laborsigns",
-        "title": "Signs Of Labor",
+        "title": "Signs of Labor",
         "cardBackgroundColor": "#7cc685",
         "categories": [
             {
@@ -10,7 +10,7 @@
             },
             {
                 "title": "Early labor",
-                "description": "Probably a sign that it’s starting"
+                "description": "Probably a good sign that labor is starting"
             },
             {
                 "title": "Active labor",
@@ -18,11 +18,11 @@
             },
             {
                 "title": "Who knows",
-                "description": "Does this really meaN anything?"
+                "description": "Does this really mean anything?"
             },
             {
                 "title": "Call your provider",
-                "description": "May be a sign to be concerned aboum"
+                "description": "May be a concern"
             }
              ],
         "cards":[
