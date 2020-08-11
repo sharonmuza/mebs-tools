@@ -16,16 +16,15 @@
                 "title": "Active labor",
                 "description": "Surefire signs baby is on its way! Time to move"
             },
-        {
+            {
                 "title": "Who knows",
                 "description": "Does this really meaN anything?"
             },
-    
-        {
+            {
                 "title": "Call your provider",
                 "description": "May be a sign to be concerned aboum"
             }
-             ],
+             ]
         "cards": [
     ,
             {
@@ -55,84 +54,52 @@
 ,
             {
                 "text": "Continuous backache"
-            }
-
-,
+            },
             {
                 "text": "Release of membranes"
-            }
-
-,
+            },
             {
                 "text": "Contractions: longer/stronger/closer"
-            }
-
-,
+            },
             {
                 "text": "I can see the head"
-            }
-
-,
+            },
             {
                 "text": "Pelvic pressure"
-            }
-
-,
+            },
             {
                 "text": "Cramping - comes & goes"
-            }
-
-,
+            },
             {
                 "text": "Nesting"
-            }
-
-,
+            },
             {
                 "text": "Bleeding"
-            }
-
-,
+            },
             {
                 "text": "Bloody show"
-            }
-
-,
+            },
             {
                 "text": "More Braxton-Hicks Ctx"
-            }
-
-,
+            },
             {
                 "text": "Full moon"
-            }
-
-,
+            },
             {
                 "text": "Swelling face/hands"
-            }
-
-,
+            },
             {
                 "text": "Seeing spots/flashing lights"
-            }
-
-,
+            },
             {
                 "text": "Upper right belly pain"
-            }
-
-,
+            },
             {
                 "text": "Headache"
-            }
-
-,
+            },
             {
                 "text": "Mucous plug"
-            }
-
-,
+            },
             {
                 "text": "Loose stools"
             }
