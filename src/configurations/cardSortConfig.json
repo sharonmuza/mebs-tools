@@ -15,8 +15,7 @@
             {
                 "title": "Active labor",
                 "description": "Surefire signs baby is on its way! Time to move"
-            }
-        ],
+            },
         {
                 "title": "Who knows",
                 "description": "Does this really meaN anything?"
@@ -26,6 +25,7 @@
                 "title": "Call your provider",
                 "description": "May be a sign to be concerned aboum"
             }
+             ],
         "cards": [
     ,
             {
