@@ -124,11 +124,6 @@
 
 ,
             {
-                "text": "CHANGE THIS"
-            }
-
-,
-            {
                 "text": "Headache"
             }
 
@@ -142,42 +137,6 @@
                 "text": "Loose stools"
             }
 
-            {
-                "text": "Bloody Show"
-            },
-            {
-                "text": "Non-progressing Contractions"
-            },
-            {
-                "text": "Restless Backache"
-            },
-            {
-                "text": "Nesting Urge"
-            },
-            {
-                "text": "Soft Bowel Movements"
-            },
-            {
-                "text": "Progressing Contractions (Longer, Stronger, Closer Together)"
-            },
-            {
-                "text": "Rupture of Membranes (Gush of Fluid)"
-            },
-            {
-                "text": "Leaking Fluid"
-            },
-            {
-                "text": "Cramping"
-            },
-            {
-                "text": "Nausea"
-            },
-            {
-                "text": "change me"
-            },
-            {
-                "text": "Nausea"
-            }
         ]
     }
 ]
