@@ -2,77 +2,106 @@
     {
         "name": "birthplan",
         "title": "Birth Plan",
-        "cardBackgroundColorFront": "#78d0bb",
-        "cardBackgroundColorBack": "#737373",
+        "cardBackgroundColorFront": "#6095cf",
+        "cardBackgroundColorBack": "#656567",
         "cards": [
             {
-                "frontText": "Additional Labor Support: Doula, friend or family",
-                "backText": "Partner as only support person"
+                "frontText": "Walk & move during labor",
+                "backText": "Labor in bed"
             },
             {
-                "frontText": "Stay at home as long as possible",
-                "backText": "Go to birthplace as soon as labor begins"
+                "frontText": "No breast/chestfeeding in first hour after birth",
+                "backText": "Breast/chestfeed within first hour after birth"
             },
             {
-                "frontText": "No food during labor",
-                "backText": "Eat in labor, if desired"
+                "frontText": "Labor starts on its own",
+                "backText": "Labor is induced"
             },
             {
-                "frontText": "Go to bathroom to urinate as needed",
-                "backText": "Bladder catheter"
-            },
-            {
-                "frontText": "No pain medication",
+                "frontText": "No epidural",
                 "backText": "Epidural"
             },
             {
-                "frontText": "Breasteeding started in first hour",
-                "backText": "Feeding started after birthing person rests"
+                "frontText": "Intermittent fetal auscultation (hand held device)",
+                "backText": "Continuous fetal monitoring (monitors with 2 straps"
             },
             {
-                "frontText": "Labor medically induced",
-                "backText": "Labor begins on its own"
+                "frontText": "Pushing on your back or reclined",
+                "backText": "Upright, forward leaning position for pushing"
             },
             {
-                "frontText": "Routine IV or hydration",
-                "backText": "Drink fluids when needed"
+                "frontText": "Vacuum or forceps NOT used",
+                "backText": "Vacuum or forceps used"
             },
             {
-                "frontText": "Spontaneous pushing with urge to push",
-                "backText": "Directed pushing"
+                "frontText": "Eat ice chips & water only: IV fluids",
+                "backText": "Eat to hunger, drink to thirst: No IV"
+            },
+            {
+                "frontText": "No pain medication (narcotic)",
+                "backText": "Narcotic pain medication"
             },
             {
                 "frontText": "Vaginal Birth",
                 "backText": "Cesarean Birth"
             },
             {
-                "frontText": "Baby cleaned up before skin to skin",
-                "backText": "Skin to skin immediately after birth"
+                "frontText": "Early labor at home",
+                "backText": "Early labor in hospital/birth center"
             },
             {
-                "frontText": "Push in positions that feel best",
-                "backText": "Push in semi-sititng or side-lying only"
+                "frontText": "No pitocin is used to augment labor",
+                "backText": "Pitocin is used to augment labor"
             },
             {
-                "frontText": "Continuous monitoring with EFM",
-                "backText": "Occasional monitoring (with Doppler or EFM)"
+                "frontText": "Midwife",
+                "backText": "Obstetrician"
             },
             {
-                "frontText": "Upright, moving, walking, dancing",
-                "backText": "Stay in bed through labor"
+                "frontText": "Baby is immediately placed skin to skin with birting parent",
+                "backText": "Baby goes to warmer, cleaned up and then brought to parent"
             },
             {
-                "frontText": "Breaking bag of water or Pitocin to speed labor",
-                "backText": "No medical methods to speed labor"
+                "frontText": "Episiotomy (cutting tissue between vagina and anus"
+                "backText": "No episiotomy"
             },
             {
-                "frontText": "Bath, Shower, Soothing environment to encourage endorphins",
-                "backText": "IV Narcotics"
+                "frontText": "Directed (valsalva) pushing",
+                "backText": "Spontaneous physiological pushing"
             },
                 {
-                "frontText": "DO THE DRUGS",
-                "backText": "MORE DRUGS"
-            }
+                "frontText": "Umbilical cord is clamped when pulsating stops",
+                "backText": "Umbilical cord is clamped immediately"
+            },
+                {
+                "frontText": "Membranes (bag of waters) released by provider",
+                "backText": "Membranes (bag of waters) released on its own"
+            },
+                {
+                "frontText": "Baby is born early or late (more than two weeks befor or after your due date)",
+                "backText": "Baby is born within two weeks of your due date"
+            },
+                {
+                "frontText": "Wear a gown provided by the hospital",
+                "backText": "Wear your own clothes"
+            },
+                {
+                "frontText": "Labor in tub or shower",
+                "backText": "Labor with no access to tub or shower"
+            },
+                {
+                "frontText": "All the labor support you want",
+                "backText": "Limited labor support"
+            },
+                {
+                "frontText": "Home or birth center",
+                "backText": "Hospital"
+            },
+                {
+                "frontText": "The doctor or midwife you wanted",
+                "backText": "Dr./midwife you don't know or prefer not to have"
+            },
+           
         ]
     },
     
