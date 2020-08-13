@@ -2,8 +2,8 @@
     {
         "name": "birthplan",
         "title": "Birth Plan Choices",
-        "cardBackgroundColorFront": "#6095cf",
-        "cardBackgroundColorBack": "#7cc685",
+        "cardBackgroundColorFront": "#4fc2def",
+        "cardBackgroundColorBack": "#6095cf",
         "cards": [
             {
                 "frontText": "Walk & move during labor",
@@ -58,7 +58,7 @@
                 "backText": "Obstetrician"
             },
             {
-                "frontText": "Baby is immediately placed skin to skin with birting parent",
+                "frontText": "Baby is immediately placed skin to skin with birthing parent",
                 "backText": "Baby goes to warmer, cleaned up & then brought to parent"
             },
             {
