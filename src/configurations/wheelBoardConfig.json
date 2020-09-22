@@ -1,3 +1,5 @@
+
+     
 [
     {
         "name": "birthwheel",
@@ -46,54 +48,55 @@
                     "Shoulder release",
                     "Head/foot massage"
                 ]
-            },
-        
+            }
+        ]
+    },
     
     {
-        "name": "earlydoulalabor",
-        "title": "Early Labor Doula Do",
+        "name": "earlylabordoulado",
+        "title": "Labor Practice Spinners",
         "backgroundColors": [
-            "#6095cf",
-            "#7cc685",
-            "#4fc2de"
+            "#cbcdca",
+            "#f6e6ab",
+            "#9befdb"
         ],
         "wheels": [
             {
-                "title": "This",
+                "title": "Position",
                 "options": [
-                    "Uncertain - Is it labor",
-                    "Excited-want to speed things up",
-                    "Really tired, hasn’t slept",
-                    "Partner is anxious/agitated",
-                    "Discouraged",
-                    "Anxiety/fear around birth",
-                    "Don’t want to labor at home"
+                    "Sit on birth ball",
+                    "Lay on side",
+                    "Slow dancing",
+                    "Walk/stand/lean",
+                    "Backwards on chair",
+                    "Hands & Knees",
+                    "Rocking in a chair"
                 ]
             },
             {
-                "title": "Plus this",
+                "title": "Breath",
                 "options": [
-                    "Contractions came on strong",
-                    "Mucus plug",
-                    "Talking, can't tell when ctx",
-                    "Back pain",
-                    "Throwing up",
-                    "Start & stop labor",
-                    "Think water broke"
+                    "Breathe normally",
+                    "Horse-lips",
+                    "Cool off hot soup",
+                    "Mantra",
+                    "Blow out candles",
+                    "Full belly breath",
+                    "Chant vowels"
                 ]
             },
             {
-                "title": "And this",
+                "title": "Partner Support",
                 "options": [
-                    "11:30 PM",
-                    "6:00 AM",
-                    "Multip",
-                    "Provider instructions",
-                    "Far from birth place",
-                    "Laboring alone",
-                    "Older children need care"                    
+                    "Hand massage",
+                    "Encouraging words",
+                    "Cool cloth",
+                    "Fan them",
+                    "Face to face",
+                    "Back rub",
+                    "Shoulder release"
                 ]
             }
-        
-    
+        ]
+    }
 ]
