@@ -182,62 +182,186 @@
                 "text": "What things from your past do you think will help you most in labor?"
             },
             {
-                "text": "Where are you getting information (what "
+                "text": "What books, websites, app are you enjoying getting info from?"
             },
             {
-                "text": "Rash or red spotches on skin"
+                "text": "Have you ever been to a birth? Seen a birth?"
             },
             {
-                "text": "Loose, yellow seedy poop after day 5"
+                "text": "What has most helped you to prepare for this birth?"
             },
             {
-                "text": "Snorts, pants, groans in sleep"
+                "text": "How has this pregnancy been so far?"
             },
             {
-                "text": "Flaking skin on scalp"
+                "text": "Was this baby planned?"
             },
             {
-                "text": "Patches of deep pink skin"
+                "text": "Do you have a history of miscarriage or abortion?"
             },
             {
-                "text": "Blue color of lips, tongue, mouth"
+                "text": "What are your fears or concerns around this birth?"
             },
             {
-                "text": "Purple or blue hands and feet"
+                "text": "Do you have a history of sexual abuse?"
             },
             {
-                "text": "No bowel movement in 24 hour period"
+                "text": "Who  else will be at your birth?"
             },
             {
-                "text": "Swelling in genital area"
+                "text": "Do you have any special needs I can help you with?"
             },
             {
-                "text": "Fewer than 6 wet diapers per day by day 5"
+                "text": "Have you ever stayed in a hospital before?"
             },
             {
-                "text": "Skin or whites of eyes look yellow"
+                "text": "How do you cope with physical and emotionally painful experieces?"
             },
             {
-                "text": "You feel something is \"off\""
+                "text": "How do you envision me helping you in labor?""
             },
             {
-                "text": "Hiccups frequently after feedings"
+                "text": "What are your preferences from the Pain Management Preference Scale?"
             },
             {
-                "text": "Fever or seems ill"
+                "text": "How do you like to get information to make decisions?"
             },
             {
-                "text": "Soft downy hair covering body"
+                "text": "How can I help you when you are making decisions in labor?"
             },
             {
+                "text": "Let's go over how, when and why you should contact me now, in labor and after"
+            },
+            {
+                "text": "Let me tell you about my back up doula"
+            },
+            {
+                "text": "Do you want pictures of your labor or birth?"
+            },
+            {
+                "text": "Do you want to labor or birth in water?"
+            },
+            {
+                "text": "What interventions are you comfortable  with and which would you like to avoid?"
+            },
+            {
+                "text": "How do you function without sleep?"
+            },
+            {
+                "text": "How do you handle stress?"
+            },
+            {
+                "text": "Do you know where to park and enter your birth location day/night?"
+            },
+            {
+                "text": "Support person, how would you like to be involved?"
+            },
+            {
+                "text": "Who else will be there? What  aret their roles?"
+            },
+            {
+                "text": "Are there any providers in the practice you are not comfortable with?"
+            },
+            {         
+      
+                "text": "What are your plans for feeding your baby?"
+            },
+             {
+                "text": "What kind of help do you have lined up for after the birth?"
+            },
+            {
+                "text": "Where do you want to do most of your laboring?"
+            },
+            {         
+      
+                "text": "Do you have any concerns about yuor recovery period?"
+            },
+             {
+                "text": "Do you have any concerns about taking care of a new baby?"
+            },
+            {
+                "text": "Do you like to be touched?  How?"
+            },
+            {         
+      
+                "text": "Do you have an idea of what to bring to the birth location"
+            },
+             {
+                "text": "How much time  will you (and partner) be taking off from work?"
+            }, 
+            {
+                "text": "How did you choose your birth location and HCP?"
+            },
+            {         
+      
+                "text": "What do you two fight about most?"
+            },
+            {         
+      
+                "text": "How did the two of you meet?"
+            },
+            {         
+      
+                "text": "What are the top three priorities for your labor and birth?"
+            },
+            {         
+      
+                "text": "What is the most important  thing  y ou would like to avoid?"
+            },
+            {         
+      
+                "text": "Have you every had any procedures done on on your cervix?"
+            },
+            {         
+      
+                "text": "Have you found a doctor for your baby?"
+            },
+            {         
+      
+                "text": "Are there things you need for your baby and are having a diffcult time getting?"
+            },
+            {         
+      
+                "text": "Do you have good social support?"
+            },
+            {         
+      
+                "text": "Do you have a therapist?"
+            },    
+            {         
+      
+                "text": "Are you worried about finances?"
+                 },
+            {         
+      
+                "text": "Do you have any sexually transmitted infections?t"
+                 },
+            {         
+      
+                "text": "Do you have any food allergies? Does partner?"
+                 },
+            {         
+      
                 "text": "Difficulty latching on the breast"
-            },
-            {
-                "text": "Underarm temperature of 99° or higher"
-            },
-            {
-                "text": "Some periods of irregular breathing"
-            }
+                 },
+            {         
+      
+                "text": "What do you want to wear in labor? Do you have concerns about modesty?"
+                 },
+            {         
+      
+                "text": "Is a certain religion important to you? Do you prefer a certain type of clergy"
+                 },
+            {         
+      
+                "text": "Have you had any breast/chest reduction or augmentation surgery?"
+                 },
+            {         
+      
+                "text": "Are you exercising during this pregnancy? What are you doing?"
+                 },
+            
+          
         ]
     }
 ]
