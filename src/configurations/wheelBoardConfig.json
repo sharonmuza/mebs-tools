@@ -64,19 +64,19 @@
             {
                 "title": "This",
                 "options": [
-                    "Don't know if this is labor",
-                    "Excited, wants it to speed up",
+                    "Is this is labor",
+                    "Excited, wants to speed up",
                     "Tired, hasn't slept",
                     "Partner is anxious",
                     "Discouraged",
                     "Anxiety/fear of birth",
-                    "Doesn't want to labor at home"
+                    "D/n want to labor @ home"
                 ]
             },
             {
                 "title": "Plus this",
                 "options": [
-                    "Contractions came on strong",
+                    "Ctx came on strong",
                     "Mucus plug?",
                     "Talks through ctxs",
                     "Back Pain",
