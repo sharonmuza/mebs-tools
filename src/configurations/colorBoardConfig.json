@@ -182,7 +182,7 @@
                 "text": "What things from your past do you think will help you most in labor?"
             },
             {
-                "text": "What books, websites, app are you enjoying getting info from?"
+                "text": "What books, websites, apps are you enjoying getting info from?"
             },
             {
                 "text": "Have you ever been to a birth? Seen a birth?"
@@ -206,7 +206,7 @@
                 "text": "Do you have a history of sexual abuse?"
             },
             {
-                "text": "Who  else will be at your birth?"
+                "text": "Who else will be at your birth?"
             },
             {
                 "text": "Do you have any special needs I can help you with?"
@@ -215,7 +215,7 @@
                 "text": "Have you ever stayed in a hospital before?"
             },
             {
-                "text": "How do you cope with physical and emotionally painful experieces?"
+                "text": "How do you cope with physically and emotionally painful experieces?"
             },
             {
                 "text": "How do you envision me helping you in labor?"
@@ -257,9 +257,6 @@
                 "text": "Support person, how would you like to be involved?"
             },
             {
-                "text": "Who else will be there? What  aret their roles?"
-            },
-            {
                 "text": "Are there any providers in the practice you are not comfortable with?"
             },
             {         
@@ -273,20 +270,20 @@
             },
             {         
       
-                "text": "Do you have any concerns about yuor recovery period?"
+                "text": "Do you have any concerns about your recovery period?"
             },
              {
                 "text": "Do you have any concerns about taking care of a new baby?"
             },
             {
-                "text": "Do you like to be touched?  How?"
+                "text": "Do you like to be touched? How? Where?"
             },
             {         
       
                 "text": "Do you have an idea of what to bring to the birth location"
             },
              {
-                "text": "How much time  will you (and partner) be taking off from work?"
+                "text": "How much time will you (and partner) be taking off from work?"
             }, 
             {
                 "text": "How did you choose your birth location and HCP?"
@@ -305,7 +302,7 @@
             },
             {         
       
-                "text": "What is the most important  thing  y ou would like to avoid?"
+                "text": "What is the most important thing you would like to avoid?"
             },
             {         
       
@@ -333,16 +330,13 @@
                  },
             {         
       
-                "text": "Do you have any sexually transmitted infections?t"
+                "text": "Do you have any sexually transmitted infections?"
                  },
             {         
       
                 "text": "Do you have any food allergies? Does partner?"
                  },
-            {         
-      
-                "text": "Difficulty latching on the breast"
-                 },
+            
             {         
       
                 "text": "What do you want to wear in labor? Do you have concerns about modesty?"
