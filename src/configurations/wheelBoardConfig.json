@@ -54,7 +54,7 @@
     
     {
         "name": "earlylabordoulado",
-        "title": "Labor Practice Spinners",
+        "title": "Early Labor Situations",
         "backgroundColors": [
             "#cbcdca",
             "#f6e6ab",
@@ -62,39 +62,39 @@
         ],
         "wheels": [
             {
-                "title": "Position",
+                "title": "This",
                 "options": [
-                    "Sit on birth ball",
-                    "Lay on side",
-                    "Slow dancing",
-                    "Walk/stand/lean",
-                    "Backwards on chair",
-                    "Hands & Knees",
-                    "Rocking in a chair"
+                    "Don't know if this is labor",
+                    "Excited, wants it to speed up",
+                    "Tired, hasn't slept",
+                    "Partner is anxious",
+                    "Discouraged",
+                    "Anxiety/fear of birth",
+                    "Doesn't want to labor at home"
                 ]
             },
             {
-                "title": "Breath",
+                "title": "Plus this",
                 "options": [
-                    "Breathe normally",
-                    "Horse-lips",
-                    "Cool off hot soup",
-                    "Mantra",
-                    "Blow out candles",
-                    "Full belly breath",
-                    "Chant vowels"
+                    "Contractions came on strong",
+                    "Mucus plug?",
+                    "Talks through ctxs",
+                    "Back Pain",
+                    "Vomitting",
+                    "Start & stop labor",
+                    "Thinks water broke?"
                 ]
             },
             {
-                "title": "Partner Support",
+                "title": "and this!",
                 "options": [
-                    "Hand massage",
-                    "Encouraging words",
-                    "Cool cloth",
-                    "Fan them",
-                    "Face to face",
-                    "Back rub",
-                    "Shoulder release"
+                    "11:00 PM",
+                    "6:30 AM",
+                    "Multip",
+                    "Provider instructions",
+                    "Lives far from birthplace",
+                    "Laboring alone",
+                    "Older children need care"
                 ]
             }
         ]
