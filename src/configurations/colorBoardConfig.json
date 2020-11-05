@@ -4,18 +4,12 @@
         "title": "Newborn Concerns",
         "skipFirstColorOnCycle": false,
         "colors": [
-           {
-                "backgroundColor": "#FFFFFF",
-                "foregroundColor": "#000000"
-            },
-            {
-                "backgroundColor": "#C5E0B3",
-                "foregroundColor": "#000000"
-            },
-            {
-                "backgroundColor": "#F9928F",
-                "foregroundColor": "#000000"
-            }
+            "#ffffff",
+            "#c5e0b3",
+            
+            "#F9928F"
+            
+          
         ],
         "cards": [
             {
