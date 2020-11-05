@@ -2,7 +2,7 @@
     {
         "name": "newbornconcerns",
         "title": "Newborn Concerns",
-        "skipFirstColorOnCycle": true,
+        "skipFirstColorOnCycle": false,
         "colors": [
             "#ffffff",
             "#C5E0B3",
